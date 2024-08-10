@@ -4,30 +4,11 @@
   
     
     <entry>
-      <title>sign</title>
-      <link href="/sign/"/>
-      <url>/sign/</url>
+      <title>测试</title>
+      <link href="/2024-08-08-first-blog-to-text/"/>
+      <url>/2024-08-08-first-blog-to-text/</url>
       
-        <content type="html"><![CDATA[<h2 id="SIGN"><a href="#SIGN" class="headerlink" title="SIGN"></a>SIGN</h2><h3 id="I-am-happy-to-be-here-and-I-really-learnt-a-lot-of-knowledge"><a href="#I-am-happy-to-be-here-and-I-really-learnt-a-lot-of-knowledge" class="headerlink" title="I am happy to be here and I really learnt a lot of knowledge !"></a>I am happy to be here and I really learnt a lot of knowledge !</h3><div align=center class="aspect-ratio">    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=708074892&bvid=BV1RQ4y1j7xf&cid=1386829750&p=1"     scrolling="no"     border="0"     frameborder="no"     framespacing="0"     high_quality=1    danmaku=1     allowfullscreen="true">     </iframe></div>]]></content>
-      
-      
-      <categories>
-          
-          <category> 测试 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第一篇文章</title>
-      <link href="/2024-08-08-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2024-08-08-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-      
-        <content type="html"><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><h3 id="I-am-happy-to-be-here-and-I-really-learnt-a-lot-of-knowledge"><a href="#I-am-happy-to-be-here-and-I-really-learnt-a-lot-of-knowledge" class="headerlink" title="I am happy to be here and I really learnt a lot of knowledge !"></a>I am happy to be here and I really learnt a lot of knowledge !</h3><div align=center class="aspect-ratio">    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=708074892&bvid=BV1RQ4y1j7xf&cid=1386829750&p=1"     scrolling="no"     border="0"     frameborder="no"     framespacing="0"     high_quality=1    danmaku=1     allowfullscreen="true">     </iframe></div>]]></content>
       
       
       <categories>
@@ -36,6 +17,12 @@
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
       
     </entry>
     
