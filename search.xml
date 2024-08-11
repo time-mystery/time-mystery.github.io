@@ -4,11 +4,30 @@
   
     
     <entry>
-      <title>测试</title>
-      <link href="/2024-08-08-first-blog-to-text/"/>
-      <url>/2024-08-08-first-blog-to-text/</url>
+      <title>mimi</title>
+      <link href="/mimi/"/>
+      <url>/mimi/</url>
       
-        <content type="html"><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><h3 id="I-am-happy-to-be-here-and-I-really-learnt-a-lot-of-knowledge"><a href="#I-am-happy-to-be-here-and-I-really-learnt-a-lot-of-knowledge" class="headerlink" title="I am happy to be here and I really learnt a lot of knowledge !"></a>I am happy to be here and I really learnt a lot of knowledge !</h3><div align=center class="aspect-ratio">    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=708074892&bvid=BV1RQ4y1j7xf&cid=1386829750&p=1"     scrolling="no"     border="0"     frameborder="no"     framespacing="0"     high_quality=1    danmaku=1     allowfullscreen="true">     </iframe></div>]]></content>
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="af05a34c072008f9ac7760a30e5ca3aeaa474007623aa37c02a2638a44f920ea">08470952a058976dcf34b144d1e69cec892e13e05122cbf3c8f6aa3cc8027c8e</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-blink">      <input class="hbe hbe-input-field hbe-input-field-blink" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-blink" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-blink" data-content="您好, 这里需要密码.">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 作为日记加密 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试</title>
+      <link href="/first%20blog%20to%20text/"/>
+      <url>/first%20blog%20to%20text/</url>
+      
+        <content type="html"><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><h3 id="I-am-happy-to-be-here-and-I-really-learnt-a-lot-of-knowledge"><a href="#I-am-happy-to-be-here-and-I-really-learnt-a-lot-of-knowledge" class="headerlink" title="I am happy to be here and I really learnt a lot of knowledge !"></a>I am happy to be here and I really learnt a lot of knowledge !</h3><p><script async src="https://npm.elemecdn.com/tzy-blog/lib/js/other/sakura.js"></script></p><div align=center class="aspect-ratio">    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=708074892&bvid=BV1RQ4y1j7xf&cid=1386829750&p=1"     scrolling="no"     border="0"     frameborder="no"     framespacing="0"     high_quality=1    danmaku=1     allowfullscreen="true">     </iframe></div><embed src="https://cdn.jsdelivr.net/gh/Justlovesmile/CDN/pdf/小作文讲义.pdf" width="100%" height="750" type="application/pdf">]]></content>
       
       
       <categories>
