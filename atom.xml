@@ -6,7 +6,7 @@
   <link href="http://time-mystery.github.io/atom.xml" rel="self"/>
   
   <link href="http://time-mystery.github.io/"/>
-  <updated>2024-08-13T10:19:45.711Z</updated>
+  <updated>2024-11-23T18:35:57.772Z</updated>
   <id>http://time-mystery.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>rss</title>
+    <link href="http://time-mystery.github.io/rss/"/>
+    <id>http://time-mystery.github.io/rss/</id>
+    <published>2024-11-23T18:28:12.000Z</published>
+    <updated>2024-11-23T18:35:57.772Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;This message is used to verify that this feed (feedId:83213408358217728) belongs to me (userId:83193269961209856). Join me in enjoying</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>测试</title>

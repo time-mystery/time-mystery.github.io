@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>rss</title>
+      <link href="/rss/"/>
+      <url>/rss/</url>
+      
+        <content type="html"><![CDATA[<p>This message is used to verify that this feed (feedId:83213408358217728) belongs to me (userId:83193269961209856). Join me in enjoying the next generation information browser <a href="https://follow.is">https://follow.is</a>.</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试</title>
       <link href="/first%20blog%20to%20text/"/>
       <url>/first%20blog%20to%20text/</url>
