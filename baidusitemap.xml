@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://time-mystery.github.io/Dijkstra/</loc>
-    <lastmod>2024-11-27</lastmod>
-  </url>
-  <url>
-    <loc>http://time-mystery.github.io/Prim/</loc>
-    <lastmod>2024-11-27</lastmod>
-  </url>
-  <url>
     <loc>http://time-mystery.github.io/first%20blog%20to%20text/</loc>
-    <lastmod>2024-11-23</lastmod>
+    <lastmod>2024-11-28</lastmod>
+  </url>
+  <url>
+    <loc>http://time-mystery.github.io/Dijkstra/</loc>
+    <lastmod>2024-11-28</lastmod>
   </url>
   <url>
     <loc>http://time-mystery.github.io/hello-world/</loc>
-    <lastmod>2024-08-13</lastmod>
+    <lastmod>2024-11-28</lastmod>
+  </url>
+  <url>
+    <loc>http://time-mystery.github.io/Prim/</loc>
+    <lastmod>2024-11-28</lastmod>
   </url>
 </urlset> 
