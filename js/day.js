@@ -7,7 +7,7 @@ y = d.getFullYear();
 
 if (m == 11 && dd == 8) {//生日
     if (sessionStorage.getItem("isPopupWindow") != "1") {
-        Swal.fire("祝自己" + (y - 2004).toString() + "岁生日快乐！");
+        Swal.fire("祝站长" + (y - 2004).toString() + "岁生日快乐！");
         sessionStorage.setItem("isPopupWindow", "1");
     }
 }
@@ -174,7 +174,7 @@ if ((lunar["IMonthCn"] == "九月" && lunar["IDayCn"] == "初九")) {
 }
 
 // 切换主题提醒
-// if (y == 2022 && m == 12 && (dd >= 18 && dd <= 20)) {
+// if (y == 204 && m == 12 && (dd >= 18 && dd <= 20)) {
 //     if (sessionStorage.getItem("isPopupWindow") != "1") {
 //         Swal.fire("网站换成冬日限定主题啦⛄");
 //         sessionStorage.setItem("isPopupWindow", "1");
