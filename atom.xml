@@ -48,14 +48,17 @@
     <link href="http://142628.xyz/Dijkstra/"/>
     <id>http://142628.xyz/Dijkstra/</id>
     <published>2024-11-25T16:08:30.000Z</published>
-    <updated>2024-11-28T07:05:34.631Z</updated>
+    <updated>2024-11-29T07:12:08.264Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h3 id=&quot;Dijkstra算法是一种用于计算单源最短路径的经典算法。以下是该算法的C-实现：&quot;&gt;&lt;a href=&quot;#Dijkstra算法是一种用于计算单源最短路径的经典算法。以下是该算法的C-实现：&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;!-- 添加jQuery依赖 --&gt;
+&lt;script src=&quot;https://code.jquery.com/jquery-3.6.0.min.js&quot;&gt;&lt;/script&gt;
+&lt;!-- 添加雪花效果脚本 --&gt;
+&lt;script src=&quot;D:&#92;桌面&#92;html&#92;My</summary>
         
       
     
