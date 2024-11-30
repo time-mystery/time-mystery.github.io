@@ -1,19 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://142628.xyz/Dijkstra/</loc>
-    <lastmod>2024-11-29</lastmod>
+    <loc>http://142628.xyz/wuziqi/</loc>
+    <lastmod>2024-11-30</lastmod>
   </url>
   <url>
-    <loc>http://142628.xyz/first%20blog%20to%20text/</loc>
-    <lastmod>2024-11-28</lastmod>
+    <loc>http://142628.xyz/idplayer/</loc>
+    <lastmod>2024-11-30</lastmod>
   </url>
   <url>
-    <loc>http://142628.xyz/hello-world/</loc>
-    <lastmod>2024-11-28</lastmod>
+    <loc>http://142628.xyz/AIAPI/</loc>
+    <lastmod>2024-11-30</lastmod>
+  </url>
+  <url>
+    <loc>http://142628.xyz/snake/</loc>
+    <lastmod>2024-11-30</lastmod>
+  </url>
+  <url>
+    <loc>http://142628.xyz/guess/</loc>
+    <lastmod>2024-11-30</lastmod>
   </url>
   <url>
     <loc>http://142628.xyz/Prim/</loc>
-    <lastmod>2024-11-28</lastmod>
+    <lastmod>2024-11-30</lastmod>
+  </url>
+  <url>
+    <loc>http://142628.xyz/first%20blog%20to%20text/</loc>
+    <lastmod>2024-11-30</lastmod>
+  </url>
+  <url>
+    <loc>http://142628.xyz/Dijkstra/</loc>
+    <lastmod>2024-11-30</lastmod>
+  </url>
+  <url>
+    <loc>http://142628.xyz/hello-world/</loc>
+    <lastmod>2024-11-30</lastmod>
   </url>
 </urlset> 

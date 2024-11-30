@@ -6,7 +6,7 @@
   <link href="http://142628.xyz/atom.xml" rel="self"/>
   
   <link href="http://142628.xyz/"/>
-  <updated>2024-11-28T07:04:27.974Z</updated>
+  <updated>2024-11-30T17:45:59.471Z</updated>
   <id>http://142628.xyz/</id>
   
   <author>
@@ -17,20 +17,115 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>AI的API</title>
+    <link href="http://142628.xyz/AIAPI/"/>
+    <id>http://142628.xyz/AIAPI/</id>
+    <published>2024-11-30T17:09:28.000Z</published>
+    <updated>2024-11-30T17:45:59.471Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;查询第三方AI的API接口模型&quot;&gt;&lt;a href=&quot;#查询第三方AI的API接口模型&quot; class=&quot;headerlink&quot; title=&quot;查询第三方AI的API接口模型&quot;&gt;&lt;/a&gt;查询第三方AI的API接口模型&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="有趣的小玩意" scheme="http://142628.xyz/categories/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B0%8F%E7%8E%A9%E6%84%8F/"/>
+    
+    
+    <category term="html" scheme="http://142628.xyz/tags/html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>音乐播放器</title>
+    <link href="http://142628.xyz/idplayer/"/>
+    <id>http://142628.xyz/idplayer/</id>
+    <published>2024-11-30T16:54:44.000Z</published>
+    <updated>2024-11-30T17:46:03.739Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;通过网易云歌单的id提取播放列表&quot;&gt;&lt;a href=&quot;#通过网易云歌单的id提取播放列表&quot; class=&quot;headerlink&quot; title=&quot;通过网易云歌单的id提取播放列表&quot;&gt;&lt;/a&gt;通过网易云歌单的id提取播放列表&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="有趣的小玩意" scheme="http://142628.xyz/categories/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B0%8F%E7%8E%A9%E6%84%8F/"/>
+    
+    
+    <category term="Html" scheme="http://142628.xyz/tags/Html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>五子棋</title>
+    <link href="http://142628.xyz/wuziqi/"/>
+    <id>http://142628.xyz/wuziqi/</id>
+    <published>2024-11-30T16:48:19.000Z</published>
+    <updated>2024-11-30T17:46:06.390Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;五子棋小游戏&quot;&gt;&lt;a href=&quot;#五子棋小游戏&quot; class=&quot;headerlink&quot; title=&quot;五子棋小游戏&quot;&gt;&lt;/a&gt;五子棋小游戏&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="有趣的小玩意" scheme="http://142628.xyz/categories/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B0%8F%E7%8E%A9%E6%84%8F/"/>
+    
+    
+    <category term="Game" scheme="http://142628.xyz/tags/Game/"/>
+    
+    <category term="Html" scheme="http://142628.xyz/tags/Html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>贪吃蛇</title>
+    <link href="http://142628.xyz/snake/"/>
+    <id>http://142628.xyz/snake/</id>
+    <published>2024-11-30T16:35:18.000Z</published>
+    <updated>2024-11-30T17:45:25.534Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;简易的贪吃蛇小游戏&quot;&gt;&lt;a href=&quot;#简易的贪吃蛇小游戏&quot; class=&quot;headerlink&quot; title=&quot;简易的贪吃蛇小游戏&quot;&gt;&lt;/a&gt;简易的贪吃蛇小游戏&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="有趣的小玩意" scheme="http://142628.xyz/categories/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B0%8F%E7%8E%A9%E6%84%8F/"/>
+    
+    
+    <category term="Game" scheme="http://142628.xyz/tags/Game/"/>
+    
+    <category term="Html" scheme="http://142628.xyz/tags/Html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>猜数字</title>
+    <link href="http://142628.xyz/guess/"/>
+    <id>http://142628.xyz/guess/</id>
+    <published>2024-11-30T16:30:27.000Z</published>
+    <updated>2024-11-30T17:27:37.816Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;区间猜数字小游戏&quot;&gt;&lt;a href=&quot;#区间猜数字小游戏&quot; class=&quot;headerlink&quot; title=&quot;区间猜数字小游戏&quot;&gt;&lt;/a&gt;区间猜数字小游戏&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="有趣的小玩意" scheme="http://142628.xyz/categories/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B0%8F%E7%8E%A9%E6%84%8F/"/>
+    
+    
+    <category term="Python" scheme="http://142628.xyz/tags/Python/"/>
+    
+    <category term="Game" scheme="http://142628.xyz/tags/Game/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Prim</title>
     <link href="http://142628.xyz/Prim/"/>
     <id>http://142628.xyz/Prim/</id>
     <published>2024-11-27T09:07:06.000Z</published>
-    <updated>2024-11-28T07:04:27.974Z</updated>
+    <updated>2024-11-30T17:26:48.532Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h3 id=&quot;Prim算法是一种用于计算加权无向连通图的最小生成树的经典算法。以下是该算法的C-实现：&quot;&gt;&lt;a href=&quot;#Prim算法是一种用于计算加权无向连通图的最小生成树的经典算法。以下是该算法的C-实现：&quot; class=&quot;headerlink&quot;</summary>
-        
-      
+    <summary type="html">&lt;h2 id=&quot;Prim算法是一种用于计算加权无向连通图的最小生成树的经典算法。以下是该算法的C-实现：&quot;&gt;&lt;a href=&quot;#Prim算法是一种用于计算加权无向连通图的最小生成树的经典算法。以下是该算法的C-实现：&quot; class=&quot;headerlink&quot; title=&quot;Prim算法是一种用于计算加权无向连通图的最小生成树的经典算法。以下是该算法的C++实现：&quot;&gt;&lt;/a&gt;Prim算法是一种用于计算加权无向连通图的最小生成树的经典算法。以下是该算法的C++实现：&lt;/h2&gt;</summary>
     
     
     
@@ -48,19 +143,15 @@
     <link href="http://142628.xyz/Dijkstra/"/>
     <id>http://142628.xyz/Dijkstra/</id>
     <published>2024-11-25T16:08:30.000Z</published>
-    <updated>2024-11-29T07:12:08.264Z</updated>
+    <updated>2024-11-30T17:22:55.321Z</updated>
     
     
-      
-      
-        
-        
     <summary type="html">&lt;!-- 添加jQuery依赖 --&gt;
 &lt;script src=&quot;https://code.jquery.com/jquery-3.6.0.min.js&quot;&gt;&lt;/script&gt;
 &lt;!-- 添加雪花效果脚本 --&gt;
-&lt;script src=&quot;D:&#92;桌面&#92;html&#92;My</summary>
-        
-      
+&lt;script src=&quot;D:&#92;桌面&#92;html&#92;My blog&#92;source&#92;js&#92;snow.js&quot;&gt;&lt;/script&gt;
+
+&lt;h2 id=&quot;Dijkstra算法是一种用于计算单源最短路径的经典算法。以下是该算法的C-实现：&quot;&gt;&lt;a href=&quot;#Dijkstra算法是一种用于计算单源最短路径的经典算法。以下是该算法的C-实现：&quot; class=&quot;headerlink&quot; title=&quot;Dijkstra算法是一种用于计算单源最短路径的经典算法。以下是该算法的C++实现：&quot;&gt;&lt;/a&gt;Dijkstra算法是一种用于计算单源最短路径的经典算法。以下是该算法的C++实现：&lt;/h2&gt;</summary>
     
     
     
@@ -78,7 +169,7 @@
     <link href="http://142628.xyz/first%20blog%20to%20text/"/>
     <id>http://142628.xyz/first%20blog%20to%20text/</id>
     <published>2024-08-08T14:54:30.000Z</published>
-    <updated>2024-11-28T07:05:35.986Z</updated>
+    <updated>2024-11-30T17:23:55.570Z</updated>
     
     
       
@@ -103,7 +194,7 @@
     <link href="http://142628.xyz/hello-world/"/>
     <id>http://142628.xyz/hello-world/</id>
     <published>2024-08-08T14:25:13.048Z</published>
-    <updated>2024-11-28T07:05:32.927Z</updated>
+    <updated>2024-11-30T17:22:52.615Z</updated>
     
     
       
@@ -116,7 +207,7 @@
     
     
     
-    <category term="Hello World" scheme="http://142628.xyz/categories/Hello-World/"/>
+    <category term="测试" scheme="http://142628.xyz/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
   </entry>
