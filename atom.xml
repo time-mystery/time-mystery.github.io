@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Time-Mysteryの 空间站</title>
+  <icon>http://142628.xyz/icon.png</icon>
+  <subtitle>Welcome to my blog!</subtitle>
+  <link href="http://142628.xyz/atom.xml" rel="self"/>
+  
+  <link href="http://142628.xyz/"/>
+  <updated>2024-12-06T17:55:40.671Z</updated>
+  <id>http://142628.xyz/</id>
+  
+  <author>
+    <name>time-mystery</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://142628.xyz/hello-world/"/>
+    <id>http://142628.xyz/hello-world/</id>
+    <published>2024-12-06T17:55:40.671Z</published>
+    <updated>2024-12-06T17:55:40.671Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="测试" scheme="http://142628.xyz/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>翻牌游戏</title>
+    <link href="http://142628.xyz/card/"/>
+    <id>http://142628.xyz/card/</id>
+    <published>2024-12-03T17:05:24.177Z</published>
+    <updated>2024-12-03T17:30:31.132Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;卡牌连连看：&lt;/p&gt;
+&lt;figure class=&quot;highlight html&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="有趣的小玩意" scheme="http://142628.xyz/categories/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B0%8F%E7%8E%A9%E6%84%8F/"/>
+    
+    
+    <category term="Html" scheme="http://142628.xyz/tags/Html/"/>
+    
+    <category term="Game" scheme="http://142628.xyz/tags/Game/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AI的API</title>
+    <link href="http://142628.xyz/AIAPI/"/>
+    <id>http://142628.xyz/AIAPI/</id>
+    <published>2024-11-30T17:09:28.000Z</published>
+    <updated>2024-12-06T17:55:40.671Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;查询第三方AI的API接口模型&quot;&gt;&lt;a href=&quot;#查询第三方AI的API接口模型&quot; class=&quot;headerlink&quot; title=&quot;查询第三方AI的API接口模型&quot;&gt;&lt;/a&gt;查询第三方AI的API接口模型&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="有趣的小玩意" scheme="http://142628.xyz/categories/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B0%8F%E7%8E%A9%E6%84%8F/"/>
+    
+    
+    <category term="Html" scheme="http://142628.xyz/tags/Html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>音乐播放器</title>
+    <link href="http://142628.xyz/idplayer/"/>
+    <id>http://142628.xyz/idplayer/</id>
+    <published>2024-11-30T16:54:44.000Z</published>
+    <updated>2024-12-06T17:55:40.671Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;通过网易云歌单的id提取播放列表&quot;&gt;&lt;a href=&quot;#通过网易云歌单的id提取播放列表&quot; class=&quot;headerlink&quot; title=&quot;通过网易云歌单的id提取播放列表&quot;&gt;&lt;/a&gt;通过网易云歌单的id提取播放列表&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="有趣的小玩意" scheme="http://142628.xyz/categories/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B0%8F%E7%8E%A9%E6%84%8F/"/>
+    
+    
+    <category term="Html" scheme="http://142628.xyz/tags/Html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>五子棋</title>
+    <link href="http://142628.xyz/wuziqi/"/>
+    <id>http://142628.xyz/wuziqi/</id>
+    <published>2024-11-30T16:48:19.000Z</published>
+    <updated>2024-12-06T17:55:40.671Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;五子棋小游戏&quot;&gt;&lt;a href=&quot;#五子棋小游戏&quot; class=&quot;headerlink&quot; title=&quot;五子棋小游戏&quot;&gt;&lt;/a&gt;五子棋小游戏&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="有趣的小玩意" scheme="http://142628.xyz/categories/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B0%8F%E7%8E%A9%E6%84%8F/"/>
+    
+    
+    <category term="Html" scheme="http://142628.xyz/tags/Html/"/>
+    
+    <category term="Game" scheme="http://142628.xyz/tags/Game/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>贪吃蛇</title>
+    <link href="http://142628.xyz/snake/"/>
+    <id>http://142628.xyz/snake/</id>
+    <published>2024-11-30T16:35:18.000Z</published>
+    <updated>2024-12-06T17:55:40.671Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;简易的贪吃蛇小游戏&quot;&gt;&lt;a href=&quot;#简易的贪吃蛇小游戏&quot; class=&quot;headerlink&quot; title=&quot;简易的贪吃蛇小游戏&quot;&gt;&lt;/a&gt;简易的贪吃蛇小游戏&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="有趣的小玩意" scheme="http://142628.xyz/categories/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B0%8F%E7%8E%A9%E6%84%8F/"/>
+    
+    
+    <category term="Html" scheme="http://142628.xyz/tags/Html/"/>
+    
+    <category term="Game" scheme="http://142628.xyz/tags/Game/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>猜数字</title>
+    <link href="http://142628.xyz/guess/"/>
+    <id>http://142628.xyz/guess/</id>
+    <published>2024-11-30T16:30:27.000Z</published>
+    <updated>2024-12-06T17:55:40.671Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;区间猜数字小游戏&quot;&gt;&lt;a href=&quot;#区间猜数字小游戏&quot; class=&quot;headerlink&quot; title=&quot;区间猜数字小游戏&quot;&gt;&lt;/a&gt;区间猜数字小游戏&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="有趣的小玩意" scheme="http://142628.xyz/categories/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B0%8F%E7%8E%A9%E6%84%8F/"/>
+    
+    
+    <category term="Python" scheme="http://142628.xyz/tags/Python/"/>
+    
+    <category term="Game" scheme="http://142628.xyz/tags/Game/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Prim</title>
+    <link href="http://142628.xyz/Prim/"/>
+    <id>http://142628.xyz/Prim/</id>
+    <published>2024-11-27T09:07:06.000Z</published>
+    <updated>2024-12-06T17:55:40.671Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Prim算法是一种用于计算加权无向连通图的最小生成树的经典算法。以下是该算法的C-实现：&quot;&gt;&lt;a href=&quot;#Prim算法是一种用于计算加权无向连通图的最小生成树的经典算法。以下是该算法的C-实现：&quot; class=&quot;headerlink&quot; title=&quot;Prim算法是一种用于计算加权无向连通图的最小生成树的经典算法。以下是该算法的C++实现：&quot;&gt;&lt;/a&gt;Prim算法是一种用于计算加权无向连通图的最小生成树的经典算法。以下是该算法的C++实现：&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="大学学习" scheme="http://142628.xyz/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="C++" scheme="http://142628.xyz/tags/C/"/>
+    
+    <category term="贪心算法" scheme="http://142628.xyz/tags/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Dijkstra</title>
+    <link href="http://142628.xyz/Dijkstra/"/>
+    <id>http://142628.xyz/Dijkstra/</id>
+    <published>2024-11-25T16:08:30.000Z</published>
+    <updated>2024-12-06T17:55:40.671Z</updated>
+    
+    
+    <summary type="html">&lt;!-- 添加jQuery依赖 --&gt;
+&lt;script src=&quot;https://code.jquery.com/jquery-3.6.0.min.js&quot;&gt;&lt;/script&gt;
+&lt;!-- 添加雪花效果脚本 --&gt;
+&lt;script src=&quot;D:&#92;桌面&#92;html&#92;My blog&#92;source&#92;js&#92;snow.js&quot;&gt;&lt;/script&gt;
+
+&lt;h2 id=&quot;Dijkstra算法是一种用于计算单源最短路径的经典算法。以下是该算法的C-实现：&quot;&gt;&lt;a href=&quot;#Dijkstra算法是一种用于计算单源最短路径的经典算法。以下是该算法的C-实现：&quot; class=&quot;headerlink&quot; title=&quot;Dijkstra算法是一种用于计算单源最短路径的经典算法。以下是该算法的C++实现：&quot;&gt;&lt;/a&gt;Dijkstra算法是一种用于计算单源最短路径的经典算法。以下是该算法的C++实现：&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="大学学习" scheme="http://142628.xyz/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="C++" scheme="http://142628.xyz/tags/C/"/>
+    
+    <category term="贪心算法" scheme="http://142628.xyz/tags/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://142628.xyz/first%20blog%20to%20text/"/>
+    <id>http://142628.xyz/first%20blog%20to%20text/</id>
+    <published>2024-08-08T14:54:30.000Z</published>
+    <updated>2024-12-06T17:55:40.667Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;测试&quot;&gt;&lt;a href=&quot;#测试&quot; class=&quot;headerlink&quot; title=&quot;测试&quot;&gt;&lt;/a&gt;测试&lt;/h2&gt;&lt;h3 id=&quot;I-am-happy-to-be-here-and-I-really-learnt-a-lot-of-knowledge&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="测试" scheme="http://142628.xyz/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="测试" scheme="http://142628.xyz/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+</feed>
