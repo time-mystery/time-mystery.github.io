@@ -111,9 +111,9 @@
     <category term="有趣的小玩意" scheme="http://142628.xyz/categories/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B0%8F%E7%8E%A9%E6%84%8F/"/>
     
     
-    <category term="Game" scheme="http://142628.xyz/tags/Game/"/>
-    
     <category term="Python" scheme="http://142628.xyz/tags/Python/"/>
+    
+    <category term="Game" scheme="http://142628.xyz/tags/Game/"/>
     
   </entry>
   
